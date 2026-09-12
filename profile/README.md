@@ -35,15 +35,60 @@ All Princeton undergrads. Any major, any year.
 
 ## What is in this organization
 
-Everything below is private. If you are in the cohort, **start with the catalogue**. If a link returns a 404, you are either not signed in or your invitation is still pending: a missing page and a page you cannot see look identical from outside. Email Chloe rather than assuming the link is dead.
+Everything except this page is private. If you are in the cohort, start with
+[the catalogue repository](https://github.com/Princeton-AI-Exploration-Lab/kits-catalog). If a link returns a 404,
+you are either not signed in or your invitation is still pending: a missing page
+and a page you cannot see look identical from outside. Email Chloe rather than
+assuming the link is dead.
 
-| Repository | What it is |
+### The documents
+
+All seven live in [kits-catalog](https://github.com/Princeton-AI-Exploration-Lab/kits-catalog).
+
+| | |
 |---|---|
-| [**kits-catalog**](https://github.com/Princeton-AI-Exploration-Lab/kits-catalog) | Start here. The thirty kits, the crash course, the glossary, the GitHub guide, and the templates. |
-| **One repo per kit** | For example `fin3-the-handoff`. Each is a template you copy into your own account. The catalogue links them all. |
-| [**kit-blank**](https://github.com/Princeton-AI-Exploration-Lab/kit-blank) | The empty kit, for students bringing their own project. |
+| [**Crash course**](https://github.com/Princeton-AI-Exploration-Lab/kits-catalog/blob/main/CRASH-COURSE.md) | Why this exists, and how an experiment works. Read this first. |
+| [**The catalogue**](https://github.com/Princeton-AI-Exploration-Lab/kits-catalog/blob/main/CATALOGUE.md) | All thirty kits, with what each one asks and what it measures. |
+| [**Glossary**](https://github.com/Princeton-AI-Exploration-Lab/kits-catalog/blob/main/GLOSSARY.md) | Every word the kits use, defined once, plus the nine properties. |
+| [**GitHub guide**](https://github.com/Princeton-AI-Exploration-Lab/kits-catalog/blob/main/GITHUB.md) | Setting up your kit, the browser workflow, and what never to upload. |
+| [**Your work**](https://github.com/Princeton-AI-Exploration-Lab/kits-catalog/blob/main/YOUR-WORK.md) | What goes in your repo, what goes in your Drive folder. |
+| [**Propose your own**](https://github.com/Princeton-AI-Exploration-Lab/kits-catalog/blob/main/PROPOSE-YOUR-OWN.md) | If you arrived with your own idea instead. |
+| [**A worked example**](https://github.com/Princeton-AI-Exploration-Lab/kits-catalog/blob/main/examples/) | One student's first week: criteria, run log, and what they found. |
 
-Your own work lives in your own copy, under your own GitHub account, not in this organization.
+### The thirty kits
+
+Each is a template repository you copy into your own account. The
+[catalogue](https://github.com/Princeton-AI-Exploration-Lab/kits-catalog/blob/main/CATALOGUE.md) has the question and what you can learn for
+every one.
+
+**Finance.** [FIN1 Called It](https://github.com/Princeton-AI-Exploration-Lab/fin1-called-it) · [FIN2 Red Flags](https://github.com/Princeton-AI-Exploration-Lab/fin2-red-flags) · [FIN3 The Handoff](https://github.com/Princeton-AI-Exploration-Lab/fin3-the-handoff)
+
+**Sports.** [SPT1 Re-Draft](https://github.com/Princeton-AI-Exploration-Lab/spt1-re-draft) · [SPT2 The Record Book Changed](https://github.com/Princeton-AI-Exploration-Lab/spt2-record-book)
+
+**Arts.** [ART1 Flop Night](https://github.com/Princeton-AI-Exploration-Lab/art1-flop-night) · [ART2 Number Ones](https://github.com/Princeton-AI-Exploration-Lab/art2-number-ones)
+
+**Politics.** [POL1 Platform Reading](https://github.com/Princeton-AI-Exploration-Lab/pol1-platform-reading) · [POL2 Poll Position](https://github.com/Princeton-AI-Exploration-Lab/pol2-poll-position) · [POL3 Council Chamber](https://github.com/Princeton-AI-Exploration-Lab/pol3-council-chamber) · [POL4 Blind Delegate](https://github.com/Princeton-AI-Exploration-Lab/pol4-blind-delegate)
+
+**History and International Relations.** [HIR1 The Verdict](https://github.com/Princeton-AI-Exploration-Lab/hir1-the-verdict) · [HIR2 Fresh Conflict](https://github.com/Princeton-AI-Exploration-Lab/hir2-fresh-conflict) · [HIR3 Same Event, Different Reader](https://github.com/Princeton-AI-Exploration-Lab/hir3-same-event)
+
+**Psychology.** [PSY1 Silicon Sample](https://github.com/Princeton-AI-Exploration-Lab/psy1-silicon-sample) · [PSY2 Will It Replicate](https://github.com/Princeton-AI-Exploration-Lab/psy2-will-it-replicate) · [PSY3 Fake Person, Real Test](https://github.com/Princeton-AI-Exploration-Lab/psy3-fake-person)
+
+**Literature.** [LIT1 Name-Cloze](https://github.com/Princeton-AI-Exploration-Lab/lit1-name-cloze)
+
+**Misc.** [MSC1 Blunder Check](https://github.com/Princeton-AI-Exploration-Lab/msc1-blunder-check) · [MSC2 Four Minutes](https://github.com/Princeton-AI-Exploration-Lab/msc2-four-minutes) · [MSC3 Frozen Playlist](https://github.com/Princeton-AI-Exploration-Lab/msc3-frozen-playlist) · [MSC4 Rabbit Hole](https://github.com/Princeton-AI-Exploration-Lab/msc4-rabbit-hole)
+
+**Software.** [SWE1 Pixel Perfect](https://github.com/Princeton-AI-Exploration-Lab/swe1-pixel-perfect) · [SWE2 The Broken Build](https://github.com/Princeton-AI-Exploration-Lab/swe2-broken-build) · [SWE3 The Architecture Planner](https://github.com/Princeton-AI-Exploration-Lab/swe3-architecture-planner) · [SWE4 The Algorithm Optimizer](https://github.com/Princeton-AI-Exploration-Lab/swe4-algorithm-optimizer) · [SWE5 The Vision Tokenizer](https://github.com/Princeton-AI-Exploration-Lab/swe5-vision-tokenizer)
+
+**Hardware.** [HDW1 The Parallel Pipeline](https://github.com/Princeton-AI-Exploration-Lab/hdw1-parallel-pipeline) · [HDW2 The Logic Synthesizer](https://github.com/Princeton-AI-Exploration-Lab/hdw2-logic-synthesizer) · [HDW3 The Silicon Interpreter](https://github.com/Princeton-AI-Exploration-Lab/hdw3-silicon-interpreter)
+
+### Starting your own project
+
+[**kit-blank**](https://github.com/Princeton-AI-Exploration-Lab/kit-blank) is the empty kit, with the same shape and no
+data. Work through
+[Propose your own project](https://github.com/Princeton-AI-Exploration-Lab/kits-catalog/blob/main/PROPOSE-YOUR-OWN.md) first.
+
+Your own work lives in your own copy, under your own GitHub account, not in this
+organization.
 
 ---
 
