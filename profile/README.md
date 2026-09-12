@@ -76,7 +76,7 @@ No. You can propose your own project using the same structure. The catalogue has
 | Chloe Lau '27 | Program Co-Lead · Psychology |
 | Siya Mishra '29 | Program Co-Lead · SPIA |
 | Sebastian Merkatz '29 | Program Co-Lead · Economics |
-| Lincoln Ho | Research Kits · Software, Hardware and Computer Vision |
+| Lincoln Ho '28 | Research Kits · Software and Hardware |
 | Heather Yacone | Assistant Director, Center for Statistics & Machine Learning |
 | Miguel Gonzalez | Academic Program Manager |
 | Remi Moss | DaIS Executive Director |
