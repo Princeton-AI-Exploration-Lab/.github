@@ -80,6 +80,9 @@ No. You can propose your own project using the same structure. The catalogue has
 | Heather Yacone | Assistant Director, Center for Statistics & Machine Learning |
 | Miguel Gonzalez | Academic Program Manager |
 | Remi Moss | DaIS Executive Director |
+| Chris Kenny | Postdoctoral Research Associate, DDSS · Research Kits advisor |
+| Alex Hollinghead | McGraw Digital Learning Lab · AEL GitHub coordinator |
+| Sorat Tungkasiri | McGraw Digital Learning Lab · AEL GitHub coordinator |
 
 ## Contact
 
