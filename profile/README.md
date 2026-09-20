@@ -80,10 +80,12 @@ Each kit is a template repository that you copy into your own account.
 | Date | What |
 |---|---|
 | Thursday 24 September, 4:30 to 6pm | Kickoff and Workshop 1 |
-| 8 October | Workshop 2 |
-| 12 November | Workshop 3 |
+| Thursday 8 October | Workshop 2 |
+| Thursday 12 November | Workshop 3 |
 | Friday 4 December | Poster dry run |
 | Tuesday 8 December | AEL Symposium |
+
+All three workshops are in Bendheim House 103.
 
 Cohort work sessions, with dinner, and mentor check-ins are bi-weekly. Project
 work is at your own pace and takes a few hours a week.
@@ -91,8 +93,9 @@ work is at your own pace and takes a few hours a week.
 ## Questions
 
 **Which AI tools do I use?**
-You run models on the McGraw Digital Learning Lab machines. The co-leads confirm
-the exact models and versions at the first workshop.
+You run models on the machines in McGraw's Digital Learning Lab, in Lewis
+Library. The co-leads confirm the exact models and versions at the first
+workshop.
 
 **What if my semester gets busy?**
 Tell a co-lead. The scope and the timeline of your project can be adjusted.
