@@ -2,6 +2,10 @@
 
 **Princeton Data and Intelligent Systems, Fall 2026**
 
+> **Fall 2026 cohort: start here.** [What to do before Workshop 1](https://github.com/Princeton-AI-Exploration-Lab/kits-catalog#before-workshop-1)
+> (Thursday 24 September, 4:30 to 6pm, Bendheim House 103), and
+> [what comes after it](https://github.com/Princeton-AI-Exploration-Lab/kits-catalog#the-semester).
+
 The AI Exploration Lab (AEL) is a semester-long program in which about 30
 Princeton undergraduates run experiments on AI models. You take a research kit,
 design a controlled experiment, collect your data, and present a poster at the
@@ -38,8 +42,10 @@ with [the catalogue repository](https://github.com/Princeton-AI-Exploration-Lab/
 Its first page tells you what to do before Workshop 1.
 
 If a link returns a 404, you are not signed in, or you have not accepted your
-invitation to this organization. Check your Princeton email for the invitation.
-If there is none, email Chloe.
+invitation to this organization. While signed in, open
+[your invitation](https://github.com/orgs/Princeton-AI-Exploration-Lab/invitation),
+or check the email address on your GitHub account. If there is no invitation,
+email Chloe.
 
 ### The documents
 
