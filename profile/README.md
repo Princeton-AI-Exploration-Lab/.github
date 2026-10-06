@@ -92,8 +92,7 @@ Each kit is a template repository that you copy into your own account.
 | Saturday 17 to Sunday 25 October | Fall break. Co-leads review and approve plans |
 | Sunday 18 October, 11:59pm | Deliverable 2, Dataset Plan, due |
 | Monday 26 October, 8 to 10pm | Working session, Digital Learning Lab |
-| Wednesday 28 October | Midpoint check-in, in person at the Digital Learning Lab. Working session 8 to 10pm |
-| Wednesday 4 November | Real runs start |
+| Wednesday 28 October | Midpoint check-in, in person at the Digital Learning Lab. Real runs start once yours is done. Working session 8 to 10pm |
 | Thursday 12 November, 4:30 to 6pm | Workshop 3, analysis and findings, Bendheim House 103 |
 | Friday 4 December | Poster dry run |
 | Tuesday 8 December, 11:30am to 2:30pm | AEL Symposium, Friend Convocation Room, Friend Center |
