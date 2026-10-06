@@ -2,9 +2,9 @@
 
 **Princeton Data and Intelligent Systems, Fall 2026**
 
-> **Fall 2026 cohort: start here.** [What to do before Workshop 1](https://github.com/Princeton-AI-Exploration-Lab/kits-catalog#before-workshop-1)
-> (Thursday 24 September, 4:30 to 6pm, Bendheim House 103), and
-> [what comes after it](https://github.com/Princeton-AI-Exploration-Lab/kits-catalog#the-semester).
+> **Fall 2026 cohort: start here.** Workshop 2 is Thursday 8 October, 4:30 to
+> 6pm, in the Digital Learning Lab, Lewis Library (lower level). The Dataset
+> Plan is due Sunday 18 October. See [what is due and when](https://github.com/Princeton-AI-Exploration-Lab/kits-catalog#deliverables).
 
 The AI Exploration Lab (AEL) is a semester-long program in which about 30
 Princeton undergraduates run experiments on AI models. You take a research kit,
@@ -39,7 +39,7 @@ subject, not an oracle.
 
 Everything except this page is private, so sign in to GitHub first. Then start
 with [the catalogue repository](https://github.com/Princeton-AI-Exploration-Lab/kits-catalog).
-Its first page tells you what to do before Workshop 1.
+Its first page tells you what is next and what is due.
 
 If a link returns a 404, you are not signed in, or you have not accepted your
 invitation to this organization. While signed in, open
@@ -85,23 +85,30 @@ Each kit is a template repository that you copy into your own account.
 
 | Date | What |
 |---|---|
-| Thursday 24 September, 4:30 to 6pm | Kickoff and Workshop 1 |
-| Thursday 8 October | Workshop 2 |
-| Thursday 12 November | Workshop 3 |
+| Thursday 24 September, 4:30 to 6pm | Kickoff and Workshop 1, Bendheim House 103 |
+| Thursday 8 October, 4:30 to 6pm | Workshop 2, Digital Learning Lab, Lewis Library (lower level) |
+| Sunday 11 October, 3 to 5pm | Working session, Digital Learning Lab |
+| Monday 12 to Friday 16 October | Midterms. Optional drop-ins at the Digital Learning Lab, no deadline |
+| Saturday 17 to Sunday 25 October | Fall break. Co-leads review and approve plans |
+| Sunday 18 October, 11:59pm | Deliverable 2, Dataset Plan, due |
+| Monday 26 October, 8 to 10pm | Working session, Digital Learning Lab |
+| Wednesday 28 October | Midpoint check-in, in person at the Digital Learning Lab. Working session 8 to 10pm |
+| Wednesday 4 November | Real runs start |
+| Thursday 12 November, 4:30 to 6pm | Workshop 3, analysis and findings, Bendheim House 103 |
 | Friday 4 December | Poster dry run |
-| Tuesday 8 December | AEL Symposium |
+| Tuesday 8 December, 11:30am to 2:30pm | AEL Symposium, Friend Convocation Room, Friend Center |
 
-All three workshops are in Bendheim House 103.
-
-Cohort work sessions, with dinner, and mentor check-ins are bi-weekly. Project
-work is at your own pace and takes a few hours a week.
+Working sessions are optional, and co-leads are in the room. Forms and slides
+are on [the cohort page](https://ai-exploration-lab.vercel.app/cohort).
+Project work is at your own pace and takes a few hours a week.
 
 ## Questions
 
 **Which AI tools do I use?**
 You run models on the machines in McGraw's Digital Learning Lab, in Lewis
-Library. The co-leads confirm the exact models and versions at the first
-workshop.
+Library. Every model in the
+[Unsloth catalog](https://unsloth.ai/docs/get-started/unsloth-model-catalog)
+runs there.
 
 **What if my semester gets busy?**
 Tell a co-lead. The scope and the timeline of your project can be adjusted.
